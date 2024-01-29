@@ -89,14 +89,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>xxx Releases Nexus Repository</name>
-	      <url>http://18.170.3.46:8081/repository/xxx-Release/</url>
+	      <name>paytm Releases Nexus Repository</name>
+	      <url>http://18.133.117.86:8081/repository/paytm-Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>xxx Snapshot Nexus Repository </name>
-	      <url>http://18.170.3.46:8081/repository/xxx-Snapshot/</url>
+	      <name>paytm Snapshot Nexus Repository </name>
+	      <url>http://18.133.117.86:8081/repository/paytm-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
